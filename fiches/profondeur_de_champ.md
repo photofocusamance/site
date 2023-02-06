@@ -1,6 +1,6 @@
 # [Photos focus - Profondeur de champ](../README.md)
 
-# Qu'est ce que c'est ?
+## Qu'est ce que c'est ?
 
 En photographie, la profondeur de champ désigne la zone de netteté autour du point sur lequel on fait la mise au point.
 Une grande profondeur de champ se caractérise par des images qui sont nettes du début à la fin.
