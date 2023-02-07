@@ -1,4 +1,4 @@
-# [Photos focus - Profondeur de champ](../README.md)
+# Profondeur de champ
 
 ## Qu'est ce que c'est ?
 

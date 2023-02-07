@@ -1,3 +1,3 @@
-# [Photo focus - Ouverture du diaphragme](../README.md)
+# Ouverture du diaphragme
 
 A venir

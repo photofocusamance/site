@@ -1,3 +1,3 @@
-# [Photo focus - Distance focale](../README.md)
+# Distance focale
 
 A venir
