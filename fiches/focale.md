@@ -42,8 +42,29 @@ En dessous de 25mm, on entre dans un nouvel univers, les perspectives sont total
 
 ## Téléobjectif
 
+Au delà des 85mm, on arrive dans le domaine des téléobjectifs.
+Les distances paraissent plus courtes, on peut aller photographier des objets beaucoup plus lointains.
+Le champ couvert étant plus faible, on apportera moins de contexte à notre photo avec un arrière plan moins étendu.
+
+> insérer photo faite au 600mm
+
 ## Quel type de focale utiliser dans quelle conditions ?
 
+Selon le sujets que l'on souhaite photographier, les conditions et ce que l'on souhaite montrer, on utilisera pas la même gamme de focales.
+
+Pour du portrait, on recherchera généralement des focales assez classiques pour ne pas que traits d'un visage soient déformés.
+
+Pour du paysage, on cherchera plutôt les focales courtes pour intégrer beaucoup d'éléments de celui-ci dans notre photo.
+
+Pour de la photo sportive ou animalière, on se verra souvent utiliser des focales relativement longues. Que ce soit à cause de la distance à laquelle on se trouve de notre sujet ou par volonté de mettre en valeur notre sujet et lui seul.
+
 ## Zoom vs focale fixe
+
+Classiquement lors de l'achat d'un appareil photo, celui-ci est accompagné d'un zoom.
+C'est un objectif qui est équipé d'une bague permettant de faire varier la distance focale au besoin.
+Ces objectifs sont très utilisés car relativement polyvalents.
+
+Mais il existe des objectifs à focale fixe.
+Ils sont conçus pour une utilisation très spécifique.
 
 ## Format de capteur et focale
